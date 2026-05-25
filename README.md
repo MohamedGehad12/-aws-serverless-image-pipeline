@@ -20,7 +20,7 @@ globally with low latency.
 
 ## 🏗️ Architecture Diagram
 
-![Architecture Diagram](architecture/architecture-diagram.png)
+![Architecture Diagram](Project-2.png)
 
 ---
 
