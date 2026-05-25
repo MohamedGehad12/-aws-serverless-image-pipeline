@@ -131,8 +131,8 @@ S3 source bucket (upload event)
 ## 🗂️ Repository Structure
 aws-image-processing-pipeline/
 │
-├── architecture/
-│   └── architecture-diagram.png
+├── project-2.png
+│   
 │
 ├── README.md
 └── LICENSE
